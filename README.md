@@ -1,4 +1,4 @@
-### Olá, Eu sou o Rafael Bortolotti 👋
+### Olá, seja bem-vindo(a)! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelbortolotti/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bortolotti.email)
@@ -19,7 +19,9 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas
+Meu nome é Rafael e sou bacharel em Administração de Empresas, pós-graduado em Business Intelligence & Big Data.
+
+Aqui você encotrará meus projetos pessoais de análises e visualizações de dados que possam comprovar minha pró eficiência em entender e extrair informações relevantes através de dados.
 
 
 
