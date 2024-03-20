@@ -1,11 +1,11 @@
-### Olá, seja bem-vindo(a)! 👋
+## Olá, seja bem-vindo(a)! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelbortolotti/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bortolotti.email)
 
 ![RafaelBortolotti GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbortolotti&show_icons=true&theme=radical)
 
-### Tecnologias 
+## Tecnologias 
 
 <div style="display: inline_block"><br/>
  
@@ -22,9 +22,11 @@
 
 </div><br/>
 
+## Apresentação
 Meu nome é Rafael e sou bacharel em Administração de Empresas, pós-graduado em Business Intelligence & Big Data.
 
 Aqui você encotrará meus projetos pessoais de análises e visualizações de dados que possam comprovar minha pró eficiência em entender e extrair informações relevantes através de dados.
+
 
 
 
